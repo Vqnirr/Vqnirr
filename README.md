@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vqnirr
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me : Vqnirr#3663
+- 📫 How to reach me : Vani#0322
 
 <!---
 Vqnirr/Vqnirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
